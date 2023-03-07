@@ -26,3 +26,4 @@ persist_with: dbrm_logs_default_datagroup
 # Each joined view also needs to define a primary key.
 
 explore: logs {}
+explore: logs2 {}
